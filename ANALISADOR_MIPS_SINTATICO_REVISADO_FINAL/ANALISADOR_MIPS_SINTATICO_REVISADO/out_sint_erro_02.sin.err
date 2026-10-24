@@ -1,0 +1,4 @@
+Linha 2, coluna 19: Encontrado EOL("EOL"); esperado NUM_INT.
+Linha 4, coluna 1: Encontrado INS_ADD("add"); esperado diretiva de dados.
+Linha 7, coluna 1: Encontrado DIR_WORD(".word"); esperado instrucao MIPS.
+Linha 8, coluna 11: Encontrado REG("$sp"); esperado SMB_OPA.

@@ -1,0 +1,4 @@
+Linha 1, coluna 1: Encontrado INS_LI("li"); esperado DIR_DATA ou DIR_TEXT.
+Linha 3, coluna 9: Encontrado ID("nome"); esperado NUM_INT.
+Linha 4, coluna 15: Encontrado NUM_INT("12"); esperado ID.
+Linha 6, coluna 14: Encontrado EOL("EOL"); esperado SMB_CPA.

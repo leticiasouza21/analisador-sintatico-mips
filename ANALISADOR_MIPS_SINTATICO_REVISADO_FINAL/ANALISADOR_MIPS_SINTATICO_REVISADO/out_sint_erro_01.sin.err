@@ -1,0 +1,3 @@
+Linha 2, coluna 13: Encontrado EOL("EOL"); esperado SMB_COM.
+Linha 4, coluna 8: Encontrado REG("$t1"); esperado SMB_COM.
+Linha 6, coluna 9: Encontrado REG("$t0"); esperado EOL.
